@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanthu0123/node-curd.git"
+  },
+  "author": "nanthagopal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanthu0123/node-curd/issues"
+  },
+  "homepage": "https://github.com/nanthu0123/node-curd#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
